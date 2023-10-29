@@ -6,7 +6,7 @@ Welcome to the Machine Learning (ML) Notebook repository. This repository contai
 
 1. [CIFAR-10 Image Classification - RAW](classification/[LogisticRegression][RAW]ImageClassification-CIFAR-10.ipynb)
    - **Description**: This notebook focuses on image classification using the CIFAR-10 dataset. It employs Linear Discriminant Analysis (LDA) for feature reduction and Logistic Regression for making predictions without data normalization.
-   - **Colab Link**: [Open in Google Colab](https://colab.research.google.com/github/DneshP/ML-Notebook/blob/master/classification/%5BLogisticRegression%5DImageClassification-CIFAR-10.ipynb)
+   - **Colab Link**: [Open in Google Colab](https://colab.research.google.com/github/DneshP/ML-Notebook/blob/master/classification/%5BLogisticRegression%5D%5BRAW%5DImageClassification-CIFAR-10.ipynb)
 
 2. [CIFAR-10 Image Classification](classification/[LogisticRegression]ImageClassification-CIFAR-10.ipynb)
    - **Description**: This notebook focuses on image classification using the CIFAR-10 dataset. It employs Linear Discriminant Analysis (LDA) for feature reduction and Logistic Regression for making predictions.
