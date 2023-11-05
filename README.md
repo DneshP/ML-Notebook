@@ -6,7 +6,7 @@ Welcome to the Machine Learning (ML) Notebook repository. This repository contai
 
 1. [CIFAR-10 Image Classification](classification/[CIFAR_10]Classification.ipynb)
    - **Description**: This notebook focuses on image classification using the CIFAR-10 dataset. It employs Linear Discriminant Analysis (LDA) for feature reduction and Logistic Regression for making predictions.
-   - **Colab Link**: [Open in Google Colab](https://colab.research.google.com/github/DneshP/ML-Notebook/blob/master/classification/%CIFAR_10%Classification-CIFAR-10.ipynb)
+   - **Colab Link**: [Open in Google Colab](https://colab.research.google.com/github/DneshP/ML-Notebook/blob/master/classification/%5BCIFAR_10%5DClassification.ipynb)
 
 2. [MNIST KNeighborsClassifier Image Classification](classification/[KNeighborsClassifier]ImageClassification.ipynb)
    - **Description**: This notebook focuses on image classification using the CIFAR-10 dataset. It employs the following feature reduction techniques:
@@ -26,7 +26,7 @@ Welcome to the Machine Learning (ML) Notebook repository. This repository contai
         - Standardization followed by NCA, reducing the dimensionality to 2 components.
         - `NCA` is another supervised technique that focuses on preserving the relative neighborhood relationships.
 
-   - **Colab Link**: [Open in Google Colab](https://colab.research.google.com/github/DneshP/ML-Notebook/blob/master/classification/%KNeighborsClassifier%ImageClassification.ipynb)
+   - **Colab Link**: [Open in Google Colab](https://colab.research.google.com/github/DneshP/ML-Notebook/blob/master/classification/%5BKNeighborsClassifier%5DImageClassification.ipynb)
 
 3. [SPAM Classifier](classification/SPAM_Classifier.ipynb)
    - **Description**: This notebook focuses on classifying spam and non-spam emails. It includes data preprocessing, model training, and evaluation.
